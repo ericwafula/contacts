@@ -24,7 +24,7 @@ public class SwaggerConfig {
 
     private ApiInfo getApiInfo() {
         return new ApiInfoBuilder()
-                .title("Contact API")
+                .title("Contacts API")
                 .version("1.0")
                 .description("A simple API that saves contact information")
                 .contact(new Contact("Eric Wafula", "https://ericwathome.tech/", "ericwathome007@gmail.com"))
