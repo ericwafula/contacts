@@ -4,7 +4,7 @@
 ## Description
 This is a Springboot API that shows basic crud operations simulating a contact application
 
-Click this link for the swagger documentation [https://contacts-eric.herokuapp.com/swagger-ui.html](https://contacts-eric.herokuapp.com/swagger-ui.html)
+Click this link for the swagger documentation [https://contacts-eric.herokuapp.com/swagger-ui/index.html](https://contacts-eric.herokuapp.com/swagger-ui/index.html)
 
 ## Setup/Installation Requirements
 * git clone https://github.com/ericwafula/contacts.git
