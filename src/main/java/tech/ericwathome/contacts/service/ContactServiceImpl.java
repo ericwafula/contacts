@@ -1,9 +1,9 @@
-package com.example.contacts.service;
+package tech.ericwathome.contacts.service;
 
-import com.example.contacts.dto.ContactDto;
-import com.example.contacts.entity.Contact;
-import com.example.contacts.error.NoContactFoundException;
-import com.example.contacts.repository.ContactRepository;
+import tech.ericwathome.contacts.dto.ContactDto;
+import tech.ericwathome.contacts.entity.Contact;
+import tech.ericwathome.contacts.error.NoContactFoundException;
+import tech.ericwathome.contacts.repository.ContactRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

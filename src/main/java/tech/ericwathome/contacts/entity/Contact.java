@@ -1,4 +1,4 @@
-package com.example.contacts.entity;
+package tech.ericwathome.contacts.entity;
 
 import lombok.*;
 import org.hibernate.Hibernate;

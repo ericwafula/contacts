@@ -1,9 +1,9 @@
-package com.example.contacts.controller;
+package tech.ericwathome.contacts.controller;
 
-import com.example.contacts.dto.ContactDto;
-import com.example.contacts.dto.ContactResponseDto;
-import com.example.contacts.entity.Contact;
-import com.example.contacts.service.ContactService;
+import tech.ericwathome.contacts.dto.ContactDto;
+import tech.ericwathome.contacts.dto.ContactResponseDto;
+import tech.ericwathome.contacts.entity.Contact;
+import tech.ericwathome.contacts.service.ContactService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

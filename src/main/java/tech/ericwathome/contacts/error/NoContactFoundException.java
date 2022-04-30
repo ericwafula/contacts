@@ -1,4 +1,4 @@
-package com.example.contacts.error;
+package tech.ericwathome.contacts.error;
 
 public class NoContactFoundException extends RuntimeException {
     public NoContactFoundException() {

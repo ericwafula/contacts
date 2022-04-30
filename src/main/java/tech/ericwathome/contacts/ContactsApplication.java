@@ -1,4 +1,4 @@
-package com.example.contacts;
+package tech.ericwathome.contacts;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

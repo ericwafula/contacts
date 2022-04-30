@@ -1,4 +1,4 @@
-package com.example.contacts.dto;
+package tech.ericwathome.contacts.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -9,7 +9,6 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class ContactDto {
-    private String name;
-    private String phoneNumber;
+public class ContactResponseDto {
+    private String message;
 }

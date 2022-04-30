@@ -1,7 +1,7 @@
-package com.example.contacts.service;
+package tech.ericwathome.contacts.service;
 
-import com.example.contacts.dto.ContactDto;
-import com.example.contacts.entity.Contact;
+import tech.ericwathome.contacts.dto.ContactDto;
+import tech.ericwathome.contacts.entity.Contact;
 
 import java.util.List;
 

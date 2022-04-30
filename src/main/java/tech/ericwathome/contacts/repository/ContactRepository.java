@@ -1,6 +1,6 @@
-package com.example.contacts.repository;
+package tech.ericwathome.contacts.repository;
 
-import com.example.contacts.entity.Contact;
+import tech.ericwathome.contacts.entity.Contact;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
